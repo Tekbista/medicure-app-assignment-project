@@ -18,4 +18,4 @@
 
 
   - name: deploy to test-server
-    command: docker run -itd -p 8081:8081 --name medicure tekbista37545/medicure:1.0
+    command: docker run -itd -p 8082:8082 --name medicure tekbista37545/medicure:1.0
